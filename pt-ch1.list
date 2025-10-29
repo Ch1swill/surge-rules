@@ -30,3 +30,9 @@ DOMAIN-SUFFIX,agsvpt.trackers.work
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,rainbowisland.co
 DOMAIN-SUFFIX,zhuque.in
+IP-CIDR,51.75.186.87/32,no-resolve
+IP-CIDR,154.219.126.123/32,no-resolve
+IP-CIDR,154.219.126.119/32,no-resolve
+IP-CIDR,154.219.126.121/32,no-resolve
+IP-CIDR,154.219.126.124/32,no-resolve
+IP-CIDR,172.64.33.43/32,no-resolve
