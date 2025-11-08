@@ -1,0 +1,42 @@
+# ---- Steam ----
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,content.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
+
+# ---- Origin / EA App ----
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,eaassets.ea.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,download.ea.com
+
+# ---- Ubisoft Connect ----
+DOMAIN-SUFFIX,cdn01.ubisoft.com
+DOMAIN-SUFFIX,cdn.ubisoft.com
+DOMAIN-SUFFIX,ubistatic.com
+DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
+
+# ---- Battle.net / Blizzard ----
+DOMAIN-SUFFIX,blzstatic.cn
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,cdn.blizzard.com
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
+DOMAIN-SUFFIX,cn.cdn.blizzard.com
+
+# ---- PlayStation / Sony ----
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,pscdn.net
+DOMAIN-SUFFIX,update.playstation.net
+DOMAIN-SUFFIX,gs2.ww.prod.dl.playstation.net
+DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
+
+# ---- Nintendo ----
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,cdn.nintendo-europe.com
+DOMAIN-SUFFIX,download.nintendo.net
+DOMAIN-SUFFIX,atum.hac.lp1.d4c.nintendo.net
+DOMAIN-SUFFIX,ccs.cdn.c.shop.nintendowifi.net
