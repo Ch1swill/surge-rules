@@ -32,6 +32,7 @@ DOMAIN,agsvpt.trackers.work
 DOMAIN,on.springsunday.net
 DOMAIN,tracker.rainbowisland.co
 DOMAIN,tracker.zhuque.in
+DOMAIN-SUFFIX,pterclub.net
 IP-CIDR,51.75.186.87/32,no-resolve
 IP-CIDR,154.219.126.123/32,no-resolve
 IP-CIDR,154.219.126.119/32,no-resolve
