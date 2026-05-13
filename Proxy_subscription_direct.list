@@ -31,8 +31,9 @@ DOMAIN-SUFFIX,nod3.org
 DOMAIN,em.mesl.cloud
 DOMAIN-SUFFIX,911-gt3-rs.com
 # WESTDATA
-DOMAIN,api.wd-turbo.com
+DOMAIN-SUFFIX,wd-turbo.com
 DOMAIN-SUFFIX,solidigm-zxcv.com
+
 # 良心云
 DOMAIN-SUFFIX,liangxin.xyz
 # 花云
